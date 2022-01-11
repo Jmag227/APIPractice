@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ahB4rncHrL75XoJj8HA+e5ew0N1MXSyKtYo0BHjAQeU27LV4dRs9W7w2OzeQTBqdjyvvODFJYSMxgkwHa5JuQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jarom\\OneDrive\\Desktop\\DeskRepo\\Baby Projects\\API\\OpenWeather\\OpenWeather\\OpenWeather.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jarom\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

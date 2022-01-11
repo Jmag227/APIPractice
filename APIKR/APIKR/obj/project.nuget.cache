@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fvLDnKkUoYE9wyEiWDgQthcPhFuQ8hk3lH/vZDdyKEzUwO7AKIPjxze7t/iDxU+s/vbk8G9aANO6bCqI4WoPhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jarom\\OneDrive\\Desktop\\DeskRepo\\Baby Projects\\API\\APIKR\\APIKR\\APIKR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jarom\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
